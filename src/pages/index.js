@@ -21,6 +21,13 @@ function HomepageHeader() {
             Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://app.idnblk.xyz">
+            Go to Our Apps
+          </Link>
+        </div>
       </div>
     </header>
   );
