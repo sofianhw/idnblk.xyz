@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         Designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        used to get your dapps up and running quickly.
       </>
     ),
   },
@@ -18,8 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Lets you focus on your dapps, and we&apos;ll do the chores.
       </>
     ),
   },
