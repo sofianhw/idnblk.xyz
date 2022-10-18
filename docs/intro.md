@@ -36,3 +36,16 @@ Or **try API immediately** with **[app.idnblk.xyz](https://app.idnblk.xyz)**.
     "id": 3
 }
 ```
+### Get Balance
+
+```type=json
+{
+    "jsonrpc": "2.0",
+    "method": "eth_getBalance",
+    "params": [
+        "0xd90e3dfb935f6a878e3ae841304284b74893e710",
+        "latest"
+    ],
+    "id": 2
+}
+```
