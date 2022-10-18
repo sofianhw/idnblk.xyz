@@ -20,6 +20,7 @@ function HomepageHeader() {
             to="/docs/intro">
             IDN Block Tutorial - 5min ⏱️
           </Link>
+          <br />
         </div>
         <div className={styles.buttons}>
           <Link

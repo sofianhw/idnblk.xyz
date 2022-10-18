@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'IDN Block',
   tagline: 'Ethereum Node Provider Pertama di Indonesia',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://idnblk.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
